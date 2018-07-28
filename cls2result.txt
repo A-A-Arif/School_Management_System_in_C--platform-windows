@@ -1,0 +1,60 @@
+						1st term Examination Result
+		
+		
+		
+		Roll					Name                Ban        Eng     Math    Total                  
+					
+		001				Dipu Mohonto		    90          89     81       260
+		002				Emon Shahriar Emu	    45          65     76	246
+		003				Partho Paul		    56          54     72	240
+		004				Partho Roy	            35          67     86	220
+		005				Ahsan Habib		    43          56     67	167
+		006				Ahsan Habib Roton	    43          55     47	145
+		007				Shoaib Sarker		    35          67     59	161
+		008				Abdur Razzak	            54          65     67	185
+		009				Sujon Sarker	            65          47     56	168
+		010				Joy Islam	            54          36     67	157
+		011				Sabbir Pranto		    53          67     87	181
+		012				Ayman Malik	            46          54     77	177
+		013				Shuvom Proshad	            67          88     76	180
+		014				Kamraul Hossain	            78          42     76       205
+		015				Mormo Sarker	            53          66     79	190
+		016				Jibon Kahar	            45          67     85	202
+		017				Hamidur Rahman	            64          78     83	241
+		018				Kakon Khondokar 	    53          89     72	210
+		019				Touhid Ahmed	            53          66     79	180
+		020				Labib Ahmed	            64          78     97	200
+		021				Hasan Pramanik		    36          45     76	146
+		022				Towkir Tomal	            64          77     73	205
+		023				Tarek Rahman	            74          47     63	179
+		024				Al Nasir	            53          64     72	186
+		025				Mamun Sarker	            64          57     70	196
+		026				Ripon Saha	            53          42     67	167
+		027				Tanmoy Dev	            64          56     64	164
+		028				Punit Roy	            56          78     84	216
+		029				Pritom Ghosh	            64          78     95	224
+		030				Noyon Rahman	            65          77     64	202
+		031				Sohel Chowdhury	            64          78     94	232
+		032				sohan Islam	            45          66     77	209
+		033				Osim Shil	            54          88     64	197
+		034				Fatir Shah	            45          75     64	176
+		035				Kollol Ghosh	            35          67     56	165
+		036				Md Aktaruzzaman Khan	    45          57     74	182
+		037				Mainul Islam	            67          56     86	189
+		038				Md Asaduzzaman Reyad	    34          67     86	186
+		039				Md Mehedi Ahmed	            66          88     66	210
+		040				Shamrat Mohonto	            64          78     96	201
+		041				Mominul Islam	            45          67     86	198
+		042				Zahid Iqbal	            64          78     46	186
+		043				Mintu Das	            64          57     66	187
+		044				Farabi Chowdhury	    64          64     76	204
+		045				MD Nur Alom Khan	    36          73     86	195
+		046				Shakil Islam	            45          77     46	168
+		047				Shagor Khan	            64          89     66	119
+		048				Tariqul Haque	            53          46     46	145
+		049				Shafiqul Islam	            64          64     76	111
+		050				Md Akash	            53          66     46	113
+		051				Prashant Roy	            35          64     76	110
+		052				Feroz Alam	            64          27     96	098
+		053				Shariful Hossain	    75          89     66       099
+		

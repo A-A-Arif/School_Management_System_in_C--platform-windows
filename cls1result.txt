@@ -1,0 +1,68 @@
+						1st term Examination Result 
+
+
+
+
+		Roll   					Name                  BAN          ENG        MATH     TOTAL
+
+		001				Md. Abdullah Al Rafi          92	   93		64	249	
+		002				Saad Ibn Resnik		      90	   87	        85	262
+		003				Sumit Kanti		      74	   81	        80	235
+		004				Niloy Das		      87           56	        90	214
+		005				Masrukh Ahmed		      56           86	        45	187
+		006				Pranto Ahmed		      54	   86	        34	174
+		007				Mahfuz Munna		      84	   59	        34	177
+		008				Shihab Shahriar		      34	   89	        10	133
+		009				Rupok Biswas		      57	   56	        34	147
+		010				Sazu Khadem		      43	   05	        34	82
+		011				Sakib Raihan		      78	   00	        45	125
+		012				Sakib Biswas		      45	   76		34	154
+		013				Fazle Rabbi		      67	   45	        56	170
+		014				Faruk Hossain		      67	   95	        90	270
+		015				Rakibul Islam		      56	   45	        10	120
+		016				Soikot Ahmed		      56	   45	        23	133
+		017				Istiaque Safi		      45	   56		34	135	
+		018				Sabu Haque		      56	   68		45	165
+		019				Rabib Rahman		      56	   56	  	45	156
+		020				Solaiman Rahman		      78	   45		45	168
+		021				Rono Muhit		      05	   45		67	117
+		022				Nitin Ghosh		      56	   45		90	181
+		023				Ujjal Hossain		      84           34		34	178
+		024				Fahim Ahmed		      68	   45		00	121
+		025				Nabil Sheikh		      45           56	 	34	135
+		026				Fahmidul		      34	   56		23	123
+		027				Al Rubel		      45	   45		12	111
+		028				Sagor Khan		      45	   45		90	190
+		029				Sakib Al Hasan		      48	   45	  	23	114
+		030				Sobuj Uddin		      04	   45		25	78
+		031				Khalilur Islam		      49	   45		23	135
+		032				Nasir Uddin		      94	   34		12	145
+		033				Shahjahan Ali		      43 	   45		90	185
+		034				Md. Pailot		      48	   45		56	156
+		035				Maruf Haque		      84	   56		78	203
+		036				Belal Sarkar		      93	   00		78	178
+		037				Mominul Bari		      39	   24		34	94
+		038				Md. Borson		      93	   23		23	137
+		039				Md. Abdullah Al Arif	      00	   36		23	134
+		040				Adib Al Wakil		      64	   34		34	139
+		041				Rafiul			      89	   45		67	210
+		042				Riad Al Mubin		      74	   65		78	227
+		043				Kashem Choudhury	      63	   90		79	237
+		044				Moshiur Rahman		      73	   45	 	34	146
+		045				Mahfujur Rahman		      29	   45		56	129
+		046				Bodiul Rahman	              32	   34		34	135
+		047				Ahsan Habib		      93	   23		67	183
+		048				Shameem Reza	              33	   23		90	156
+		049				Suhaib Ahmed		      34	   21		67	122
+		050				Sams Uddin		      37	   90		89	216
+		051				Robiul Islam		      39	   90		23	152
+		052				Shuvo	                      35	   89		23	147
+		053				Salauddin                     45	   20		89	154
+		054				Bikas Paul                    45	   10		11	66
+		055				Bidhan Roy	              34	   10		00	44
+		056				Mahbub Rahman	              35	   12		33	80
+		057				Mehmubur Rahman Joy	      45	   45		22	112
+		058				Naim Islam	              45	   23		45	114
+		059				Sahriar Alam	              45	   34		23	102
+		060				Taiyatul Islam		      45	   66		21	132
+		061				Apon Haque		      67	   33		44	144

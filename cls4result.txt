@@ -1,0 +1,58 @@
+		
+		
+						1st Term Result
+						
+		
+		Roll        Name                BAN  ENG  MATH   SCIENCE  SOCIAL_SCIENCE     RELIGION 	 TOTAL
+
+		001	   Md.Shohel Rana	90   82    100    93      	87      	95	 547	
+		002	   Masum Sarker		84   83     92    74      	79       	98       510
+		003	   Alif Ahmed		78   89     78    90      	93      	89	 517
+		004	   Palash Talukdar	90   78     99    87      	75       	72	 501	
+		005	   Hasan Khandokar      78   74     89    90      	81       	80	 492			
+		006	   Belal Hossain	94   93     90    73      	74       	89       513	
+		007	   Arif Sarker	   	89   78     90    78      	90       	93	 518
+		008	   Shikor Rana		78   89     78    67      	78       	89	 479
+		009	   Ashik Sazal		78   89     78    90      	90       	89	 514
+		010	   Sharif Talukdar	71   75     67    89      	84       	94	 480	
+		011	   Santo Hossain	70   76     71    74      	90       	92	 473	
+		012	   Rahad Islam		79   94     70    75      	73       	72	 463
+		013	   Ahad Rahman		78   75     90    95      	75       	73	 486
+		014	   Rezaul Karim		85   72     92    80      	80       	95	 504
+		015	   Omar faruk		89   75     73    76      	78       	91	 482
+		016	   Harun al rashid	75   78     72    79      	70       	75	 449	
+		017	   Fahad Islam          67   69     70    72      	73       	83       434
+		018	   Tarek hasan          65   66     78    74      	72       	81	 436
+		019	   Sajjad Rakib		73   54	    64    74      	64       	74	 403
+		021	   Rshedul Islam	71   64     66    69      	78      	75	 423	
+		022	   Ahmad Musa		78   56     56    78      	56       	78	 402
+		023	   Afzal Karim Rony	89   78     79    74      	71       	75	 466	
+		024	   Akramul Hasan	89   75     63    75      	72       	78	 452	
+		025	   Nur Hosen		78   73     89    74      	78       	63	 455
+		026	   ShiShir Sarker       65   54     45    56      	78       	75	 373			
+		027	   Riyad Morshed	65   64     69    73      	71       	69	 411	
+		028	   Saif Uddin	        68   63     54    65      	74       	74	 398	
+		029	   Ahnaf Shakil		73   56     72    71      	87       	76	 415
+		030	   Ahmad Raju		67   62     76    67      	73       	78	 423
+		031	   Toufiq Reon		67   54     45    78      	71       	73	 388
+		032	   Mamunur Rashid	71   65     56    57      	67       	67	 383	
+		033	   MD.Shakhawat		78   65     89    64      	64       	75	 435
+		034	   Obaidur Islam 	65   64     59    71      	74       	78	 411	
+		035	   Ishtee Khan		71   68     65    72      	74       	78	 428
+		036	   Abdullah Ashraf	68   64     57    63      	54       	76	 382	
+		037	   Hasibul Alam		78   56     45    64      	71       	74	 388
+		038	   Sahidul Hasan	73   75     54    64      	75       	61	 402	
+		039	   Asif Pranto		68   63     51    68      	71       	74	 395
+		040	   Farhan Islam		67   52     52    51      	76       	62	 360
+		041	   Bashar Ahmad		76   72     65    68      	67       	78	 422
+		042	   Jubear Hossain	69   71     65    78      	65       	75	 423	
+		043	   Aniul Haque          65   54     50    67      	66       	67	 366		
+		044	   Ishaq Khan		67   68     65    72      	65       	78	 415
+		045	   Kamal Pasha		65   64     44    65      	65       	69 	 372
+		046	   Mozammel Haque	67   73     56    73      	65       	65	 399	
+		047	   Jahangir Alam	70   56     55    67      	62       	73	 383	
+		048	   Rasel Mahmud		64   65     75    64      	64       	65	 397
+		049	   Nahid Hasan		73   61     58    74      	64       	70	 400
+		050	   Mahdi hasan          70   63     65    54      	72       	74       333
+ 
+

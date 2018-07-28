@@ -1,0 +1,58 @@
+							1st term Examination Result
+	
+	
+	
+	
+	Roll   	      Name                                 BAN     ENG   MATH   SCIENCE   SOCIAL_SCIENCE    RELIGION    TOTAL
+
+	001	    Shakil Islam		            98     97    95       96          98              99         583  
+	002	    Soikot khan	                            95     90    99       97          94              97	 572
+	003	    Munirul Pasha	                    95     94    98       95          94              92	 568
+	004	    Boshir Uddin                            91     93    92       94          95              96	 561
+	005	    Rupam Ghosh	                            95     92    87       84          89              80	 527	
+	006	    Sohel Ahmed	    			    86     84    84       85          74              93	 506
+	007	    Hasan Tanzim	  	            76     84    82       93          92              74	 506
+	008	    Shihab Sarker	   	            75     75    89       74          71              79	 452
+	009	    Zamil Hasan	   	                    70	   64    78       64          98              73         447
+	010	    Soumik Akando  	                    87     88    74       73          64              98	 484
+	011	    Golap Mahmud        	            84     77    78       88          74              98	 499	
+	012	    Turjo islam	   	                    75     74    84       64          77              72	 446
+	013	    Sharif hasan	   	            64     65    69       66          55              87	 408
+	014	    Ohidul khan	   	                    65     87    67       77          72              74	 442
+	015	    Shafi Al Islam	    	            77     72    88       76          72              66	 451
+	016	    Ashikur Rahman	    	            74     79    89       79          64              88	 473
+	017	    Ahmed Sajid	   	                    77     74    83       77          72              63	 446
+	018	    Masum Haq       	                    64     88    55       65          54              88         414
+	019	    Mithu Khan	   	                    75     79    80       82          65              66	 447
+	020	    Dawud khan				    64     65    69       66          55              87	 408
+	021	    Ononno shen   		            66     77    93       44          64              72	 416
+	022	    Nazim khan      	                    72     72    75       79          64              88	 450	  
+	023	    Najem Hossain	   	            64     65    74       78          74              91	 556
+	024	    Sabbir khan	   	                    71     78    33       72          67              70	 431
+	025	    Ridom Talukdar	   	            74     78    74       78          69              77         450
+	026	    Omi hossain	   	                    69     89    65       64          63              62	 412
+	027	    Md. Kollol	    	                    77     74    55       59          67              70	 402
+	028	    Salman khan	   	                    79     67    69       59          75              66	 415
+	029	    Saad Al Islam	   	            64     77    44       78          63              74	 400
+	030	    Jamal Uddin	    	                    74     64    66       65          77              72	 418
+	031	    Khalilur Islam	    	            66     74    73       74          72              74	 433
+	032	    Nasir Uddin	   	                    74     75    65       44          68              70	 392
+	033	    Shahjahan Ali	    	            77     72    48       59          67              66	 389
+	034	    Md. Pailot	   	                    74     64    58       77          55              78         406
+	035	    Maruf Haque	   	                    74     67    74       73          64              77	 422
+	036	    Belal Sarkar	   	            65     74    33       46          67              57	 342
+	037	    Mominul Bari	   	            67     55    61       65          74              61	 383
+	038	    Md. Borson	   	                    74     55    51       44          60              68	 352
+	039	    Md. Abdullah Al Arif	    	    76     49    66       74          68              71	 404
+	040	    Adib Al Wakil        	            69     64    69       64          67              69	 402
+	041	    Rafiul Islam	   	            73     63    62       73          55              77	 403
+	042	    Riad Al Mubin	   	            64     45    30       49          60              55	 303
+	043	    Kashem Choudhury	   	            66     38    45       50          61              70	 330
+	044	    Moshiur Rahman	   	            67     63    33       59          66              49	 340
+	045	    Mahfujur Rahman	   	            49     44    36       40          60              65	 294
+	046	    Bodiul Rahman	   	            40     48    36       48          58              55	 285
+	047	    Ahsan Habib	   	                    65     48    34       45          55              59	 306
+	048	    Shameem Reza	   	            70     34    39       49          63              72	 367
+	049	    Suhaib Ahmed	   	            67     38    00       47          49              64	 265	
+	050	    Sams Uddin         	                    65   00    00         48          43              38        194
+
